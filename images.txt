@@ -1,3 +1,4 @@
 #docker镜像
 althack/ros2:eloquent-full
+ubuntu/python:3.8-20.04_stable
 
