@@ -4,4 +4,3 @@ jadehh/rknn-toolkit:1.7.3
 ritchie9527/rknn-toolkit2:v2.3.2
 automni/ros2_eloquent:latest
 nvidiajetson/l4t-ros2-eloquent-pytorch:r32.5
-
